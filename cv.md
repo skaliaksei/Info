@@ -1,5 +1,5 @@
 # Aliaksei Skakun
-## Front-end Developer
+### Front-end Developer
 ## Contacts
 **LinkedIn:** [Aliaksei Skakun](http://www.linkedin.com/in/aliaksei-skakun-7b9738183)  
 **gmail:** skaliaksei@gmail.com  
@@ -13,21 +13,28 @@
 >  For this reason, I am looking for a company willing to offer me interesting projects and time to learn job technologies. I would offer my full commitment, and be a pleasant and friendly addition to your team. I am therefore currently looking for a job or an internship as a front- end developer.
 
 
+## Skills
 
-- #### Skills
-++== Technical ==++  
-Understanding basics developer tools.  
--HTML/CSS  
--JavaScript  
--Version Control/Git  
--React (basics)  
--Responsive Design  
--Browser Developer Tools - VSCode, Sublime  
--Figma/ Photoshop/ 3ds max  
-++== Soft ==++  
+##### Technical  
+Understanding basics developer tools
+* HTML/CSS 
+* JavaScript
+* Version Control/Git 
+* React (basics)
+* Responsive Design 
+* Browser Developer Tools - VSCode, Sublime
+* Adobe Creative Suite
+* Figma/ Photoshop/ 3ds max  
+
+##### Soft
 Adaptability- ability to adapt to changing circumstances- it's normally for me.
 Good Communication- understanding my team members and supporting each other’s development work
-I’m continuing self education, taking courses on frontend, performing pet-projects, solving tasks on codewars and improving my skills.  
+I’m continuing self education, taking courses on frontend, performing pet-projects, solving tasks on codewars and improving my skills.
+
+
+
+
+
 
 - #### Examples of the code
 at the Repository: [GitHub](http://github.com/skaliaksei/)
