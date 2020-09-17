@@ -1,3 +1,12 @@
+## Contact Info
+* __City:__  Minsk, Belarus
+* __Email adress:__
+    * lisaveta.chabotko@mail.ru
+    * lisaveta.chabotko@gmail.com
+* __Phone number:__ +375 29 358 77 02
+* __Skype:__ lisa4815
+
+
 ## Aliaksei Skakun
 - #### Contacts
 LinkedIn: [Aliaksei Skakun](http://www.linkedin.com/in/aliaksei-skakun-7b9738183)  
