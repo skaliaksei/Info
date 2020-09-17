@@ -7,7 +7,7 @@
 
 ## About
 
->  Responsibility and respectful attitude for my work is an indispensable part of me. Lifelong learning and self-development are crucial for me. I am interested in web dev & computer graphics. I gained some experience of working in this area with small individual projects. As this area compliments  my studies at RS-School, I am keep to gain more experience in the field. 
+>  Responsibility and respectful attitude to my work is an indispensable part of me. Lifelong learning and self-development are crucial for me. I am interested in web dev & computer graphics. I gained some experience of working in this area with small individual projects. As this area supplement my studies at RS-School, I keep on gaining more experience in the field.  
 
 
 >  For this reason, I am looking for a company willing to offer me interesting projects and time to learn job technologies. I would offer my full commitment, and be a pleasant and friendly addition to your team. I am therefore currently looking for a job or an internship as a front- end developer.
@@ -39,7 +39,7 @@ at the Repository: [GitHub](http://github.com/skaliaksei/)
 
 ## Experience
 
-There is some experience in web development (not commercial, but really worked some years. as part of a graduation project at the university). It was information site of the technical laboratory BNTU. Used clean HTML/CSS and some JS code. For a graphic part used 3ds max, Adobe packages and secondary elements for assembly. Sadly, I don't have any code from that project on it today.
+Experience: There is some experience in web development (not commercial, but really worked some years. as part of a graduation project at the university). It was information site of the technical laboratory BNTU. Used clean HTML/CSS and some JS code. For a graphic part used 3ds max, Adobe packages and secondary elements for assembly. Unfortunately, I don't have any code from that project on it today.  
 
 
 ## Education
@@ -81,4 +81,5 @@ coursies “MyFreedom”
 ## English
 
 > Pre intermediate (A2) level. Taught english in school.  
-> Now I work very hard with this problem in online courses and with my trainer. I aspire to practice in other countries (for example, Lithuania, Spain, Germany); reading technical documentation and dev books.  
+
+> Now I work very hard on this problem in online courses and with my trainer. I aspire to practice in other countries (for example, Lithuania, Spain, Germany); reading technical documentation and dev books.  
