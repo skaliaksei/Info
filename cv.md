@@ -15,7 +15,7 @@
 
 ## Skills
 
-##### Technical  
+**Technical**  
 Understanding basics developer tools
 * HTML/CSS 
 * JavaScript
@@ -26,7 +26,7 @@ Understanding basics developer tools
 * Adobe Creative Suite
 * Figma/ Photoshop/ 3ds max  
 
-##### Soft
+**Soft**
 Adaptability- ability to adapt to changing circumstances- it's normally for me.
 Good Communication- understanding my team members and supporting each other’s development work
 I’m continuing self education, taking courses on frontend, performing pet-projects, solving tasks on codewars and improving my skills.
