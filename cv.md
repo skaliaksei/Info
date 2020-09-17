@@ -26,33 +26,63 @@ Understanding basics developer tools
 * Adobe Creative Suite
 * Figma/ Photoshop/ 3ds max  
 
-**Soft**
+**Soft**  
 Adaptability- ability to adapt to changing circumstances- it's normally for me.
 Good Communication- understanding my team members and supporting each other’s development work
 I’m continuing self education, taking courses on frontend, performing pet-projects, solving tasks on codewars and improving my skills.
 
 
 
+## Examples of the code
 
-
-
-- #### Examples of the code
 at the Repository: [GitHub](http://github.com/skaliaksei/)
 
-- #### Experience
+## Experience
+
 There is some experience in web development (not commercial, but really worked some years. as part of a graduation project at the university). It was information site of the technical laboratory BNTU. Used clean HTML/CSS and some JS code. For a graphic part used 3ds max, Adobe packages and secondary elements for assembly. Sadly, I don't have any code from that project on it today.
 
-- #### Education
-++== The main ==++  
---** Web design & digital graphics. **  
+
+## Education
+
+**The Main**
+```
+**Web design & digital graphics**  
 specialities: developer web designer  
 Belarusian National Technical University  
 06/2012 - Minsk, Belarus  
---** Informational technologies. **  
+```
+
+```
+**Informational technologies**  
 specialities: Engineer by informational technologies  
 Belarusian State University of Informatics & Radioelectronics  
 06/2010 - Minsk, Belarus  
-++== Additional ==++  
+```
+
+**Additional**   
+```
+**Web design & digital graphics**  
+specialities: developer web designer  
+Belarusian National Technical University  
+06/2012 - Minsk, Belarus  
+```
+
+```
+**Web design & digital graphics**  
+specialities: developer web designer  
+Belarusian National Technical University  
+06/2012 - Minsk, Belarus  
+```
+
+```
+**Web design & digital graphics**  
+specialities: developer web designer  
+Belarusian National Technical University  
+06/2012 - Minsk, Belarus  
+```
+
+
+
 --** Front-end dev. **  
 “RS-School”  
 12/2020 - Minsk, Belarus  
