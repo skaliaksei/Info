@@ -7,19 +7,19 @@ gmail: skaliaksei@gmail.com
 == Responsibility and respectful == attitude for my work is an indispensable part of me. Lifelong learning and self-development are crucial for me. I am interested in web dev & computer graphics. I gained some experience of working in this area with small individual projects. As this area compliments  my studies at RS-School, I am keep to gain more experience in the field. For this reason, I am looking for a company willing to offer me interesting projects and time to learn job technologies. I would offer my full commitment, and be a pleasant and friendly addition to your team. I am therefore currently looking for a job or an internship as a front- end developer.
 
 - #### Skills
-++== Technical ==++
-Understanding basics developer tools.
--HTML/CSS
--JavaScript
--Version Control/Git
--React (basics)
--Responsive Design
--Browser Developer Tools - VSCode, Sublime
--Figma/ Photoshop/ 3ds max
-++== Soft ==++
+++== Technical ==++  
+Understanding basics developer tools.  
+-HTML/CSS  
+-JavaScript  
+-Version Control/Git  
+-React (basics)  
+-Responsive Design  
+-Browser Developer Tools - VSCode, Sublime  
+-Figma/ Photoshop/ 3ds max  
+++== Soft ==++  
 Adaptability- ability to adapt to changing circumstances- it's normally for me.
 Good Communication- understanding my team members and supporting each other’s development work
-I’m continuing self education, taking courses on frontend, performing pet-projects, solving tasks on codewars and improving my skills.
+I’m continuing self education, taking courses on frontend, performing pet-projects, solving tasks on codewars and improving my skills.  
 
 - #### Examples of the code
 at the Repository: [GitHub](http://github.com/skaliaksei/)
