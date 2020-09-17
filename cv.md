@@ -67,28 +67,18 @@ Front-end dev.
 codecacademy.com, htmlacademy.ru, RSShcool, Codewars, learn.javascript.ru  
 ```
 ```
-English, Pre-Intermediate. **  
+English, Pre-Intermediate  
 coursies “Streamline”  
 07/2016 - Minsk, Belarus  
 ```
 ```
-Design; 3d graphics. **  
+Design; 3d graphics  
 coursies “MyFreedom”  
 04/2014 - Minsk, Belarus  
 ```
 
 
+## English
 
---** Front-end dev. **  
-“RS-School”  
-12/2020 - Minsk, Belarus  
-codecacademy.com, htmlacademy.ru, RSShcool, Codewars, learn.javascript.ru  
---** English, Pre-Intermediate. **  
-coursies “Streamline”  
-07/2016 - Minsk, Belarus  
---** Design; 3d graphics. **  
-coursies “MyFreedom”  
-04/2014 - Minsk, Belarus  
-
-- #### English
-== Pre intermediate (A2) level. == Taught english in school. Now I work very hard with this problem in online courses and with my trainer. I aspire to practice in other countries (for example, Lithuania, Spain, Germany); reading technical documentation and dev books.
+> Pre intermediate (A2) level. Taught english in school.  
+> Now I work very hard with this problem in online courses and with my trainer. I aspire to practice in other countries (for example, Lithuania, Spain, Germany); reading technical documentation and dev books.  
