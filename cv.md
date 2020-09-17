@@ -46,14 +46,14 @@ There is some experience in web development (not commercial, but really worked s
 
 **The Main**
 ```
-** Web design & digital graphics **  
+Web design & digital graphics  
 specialities: developer web designer  
 Belarusian National Technical University  
 06/2012 - Minsk, Belarus  
 ```
 
 ```
-**Informational technologies**  
+Informational technologies  
 specialities: Engineer by informational technologies  
 Belarusian State University of Informatics & Radioelectronics  
 06/2010 - Minsk, Belarus  
@@ -61,24 +61,20 @@ Belarusian State University of Informatics & Radioelectronics
 
 **Additional**   
 ```
-**Web design & digital graphics**  
-specialities: developer web designer  
-Belarusian National Technical University  
-06/2012 - Minsk, Belarus  
+Front-end dev.  
+“RS-School”  
+12/2020 - Minsk, Belarus  
+codecacademy.com, htmlacademy.ru, RSShcool, Codewars, learn.javascript.ru  
 ```
-
 ```
-**Web design & digital graphics**  
-specialities: developer web designer  
-Belarusian National Technical University  
-06/2012 - Minsk, Belarus  
+English, Pre-Intermediate. **  
+coursies “Streamline”  
+07/2016 - Minsk, Belarus  
 ```
-
 ```
-**Web design & digital graphics**  
-specialities: developer web designer  
-Belarusian National Technical University  
-06/2012 - Minsk, Belarus  
+Design; 3d graphics. **  
+coursies “MyFreedom”  
+04/2014 - Minsk, Belarus  
 ```
 
 
