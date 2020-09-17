@@ -46,7 +46,7 @@ There is some experience in web development (not commercial, but really worked s
 
 **The Main**
 ```
-**Web design & digital graphics**  
+** Web design & digital graphics **  
 specialities: developer web designer  
 Belarusian National Technical University  
 06/2012 - Minsk, Belarus  
