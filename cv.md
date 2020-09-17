@@ -4,7 +4,7 @@ LinkedIn: [Aliaksei Skakun](http://www.linkedin.com/in/aliaksei-skakun-7b9738183
 gmail: skaliaksei@gmail.com
 
 - #### About
-== Responsibility and respectful == attitude for my work is an indispensable part of me. Lifelong learning and self-development are crucial for me. I am interested in web dev & computer graphics. I gained some experience of working in this area with small individual projects. As this area compliments  my studies at RS-School, I am keep to gain more experience in the field. For this reason, I am looking for a company willing to offer me interesting projects and time to learn job technologies. I would offer my full commitment, and be a pleasant and friendly addition to your team. I am therefore currently looking for a job or an internship as a front- end developer.
+==Responsibility and respectful== attitude for my work is an indispensable part of me. Lifelong learning and self-development are crucial for me. I am interested in web dev & computer graphics. I gained some experience of working in this area with small individual projects. As this area compliments  my studies at RS-School, I am keep to gain more experience in the field. For this reason, I am looking for a company willing to offer me interesting projects and time to learn job technologies. I would offer my full commitment, and be a pleasant and friendly addition to your team. I am therefore currently looking for a job or an internship as a front- end developer.
 
 - #### Skills
 ++== Technical ==++  
