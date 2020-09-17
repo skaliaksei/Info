@@ -1,10 +1,8 @@
 # Aliaksei Skakun
 ## Front-end Developer
-
 ## Contacts
-LinkedIn: [Aliaksei Skakun](http://www.linkedin.com/in/aliaksei-skakun-7b9738183)  
-gmail: skaliaksei@gmail.com 
-
+**LinkedIn:** [Aliaksei Skakun](http://www.linkedin.com/in/aliaksei-skakun-7b9738183)  
+**gmail:** skaliaksei@gmail.com 
 **Location:** Belarus, Minsk
 
 ## About
